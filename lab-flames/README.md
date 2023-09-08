@@ -16,7 +16,7 @@ Practice Java basics - operators, conditions, loops, classes and object
 Upon completion, run the following commands:
 
 git add .
-git commit -m "ProGrad ID"
+git commit -m "message"
 git push origin master
 
 And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
@@ -62,8 +62,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 1. ***Print the names in console***
 2. ***Print the love character and the corresponding match***
 ```
-Your name is ProGrad.
-Your partner name is FACEPrep.
+Your name is <XXX>.
+Your partner name is <YYY>.
 You two are "LOVERS"
-```
-Happy Coding ProGrad ❤️
+``
