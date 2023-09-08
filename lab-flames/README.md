@@ -1,18 +1,14 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
-
-# ProGrad Lab | FLAMES
-
 ## A Quick Introduction
 
-We all would have heard or in fact played the FLAMES game atleast once. Logically the game doesn't make a lot of sense, but it definitely is a lot of fun. And hence we thought, why not build it with the help of our ProGrads? 
+We all would have heard or in fact, played the FLAMES game at least once. Logically the game doesn't make a lot of sense, but it definitely is a lot of fun. 
 
-(If you haven't heard of this game before, then quickly google it up & understand before you proceed)
+(If you haven't heard of this game before, then quickly Google it up & understand before you proceed)
 
 ## What should you do
 ```
 Fork this repo
 Clone this repo
-Practice Java basics - operators, conditions, loops, class and object
+Practice Java basics - operators, conditions, loops, classes and object
 ```
 
 ## How To Submit
